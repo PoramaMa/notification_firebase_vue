@@ -11,8 +11,8 @@ const firebaseConfig = {
   projectId: "testnoti-709f4",
   storageBucket: "testnoti-709f4.appspot.com",
   messagingSenderId: "873103653252",
-  appId: "1:873103653252:web:0c53dfaba9a0ee603d45d1",
-  measurementId: "G-1W1SYSYCN3",
+  appId: "1:873103653252:web:c6103781dcb51ef33d45d1",
+  measurementId: "G-RWD6KSFKJ8",
 };
 
 const app = initializeApp(firebaseConfig);
